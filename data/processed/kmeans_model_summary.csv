@@ -1,0 +1,8 @@
+Metric,Value
+Algorithm,KMeans
+Number of Clusters,6
+Total Customers,839081
+Silhouette Score,0.3686
+Davies-Bouldin Score,0.7280
+Calinski-Harabasz Score,"558,218.72"
+Best Segment (by revenue),Big Spenders
